@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #5757a2;
+}
+div {
+    display: block;
+}
+.header_text {
+    font-family: 'Nunito';
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(4, 43, 34);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
